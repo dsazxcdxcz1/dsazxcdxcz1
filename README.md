@@ -10,7 +10,6 @@
 - 💻 Tech stack: React, JavaScript, TypeScript, HTML, CSS, SCSS  
 - 📚 Currently learning advanced React and performance optimization  
 - 🎨 I love creating clean UI and smooth UX  
-- 🌍 Based in: Planet Earth
 
 ---
 
